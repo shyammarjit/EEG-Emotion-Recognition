@@ -2,7 +2,23 @@
 EEG-Based Emotion Recognition Using Genetic Algorithm Optimized Multi-Layer Perceptron
 
 
-Results:
-| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+Valence Results:
+| Subject | Accuracy | Precession | Recall | F1-Score |
+| :---: | :---: | :---: | :---: | :---: |
+| S01 | 87.5 | 100.0 | 80.0 | 88.89 |
+
+
+
+
+Arousal Results:
+| Subject | Accuracy | Precession | Recall | F1-Score |
+| :---: | :---: | :---: | :---: | :---: |
+|S01 | 100.0 | 100.0 | 100.0 | 100.0|
+
+
+
+
+Four Class Results:
+| Subject | Accuracy | Precession | Recall | F1-Score |
+| :---: | :---: | :---: | :---: | :---: |
+| S01 | 87.5 | 81.25 | 87.5 | 83.33 |
