@@ -11,6 +11,7 @@ Valence Results:
 | S04 | 100.0 | 100.0 | 100.0 | 100.0 |
 | S05 | 100.0 | 100.0 | 100.0 | 100.0 |
 
+| S07 | 100.0 | 100.0 | 100.0 | 100.0 |
 
 Arousal Results:
 | Subject | Accuracy | Precession | Recall | F1-Score |
@@ -21,6 +22,7 @@ Arousal Results:
 | S04 | 100.0 | 100.0 | 100.0 | 100.0 |
 | S05 | 87.5 | 80.0 | 100.0 | 88.89 |
 
+| S07 | 100.0 | 100.0 | 100.0 | 100.0 |
 
 Four Class Results:
 | Subject | Accuracy | Precession | Recall | F1-Score |
@@ -30,3 +32,5 @@ Four Class Results:
 | S03 | 62.5 | 77.5 | 62.5 | 63.19 |
 | S04 | 100.0 | 100.0 | 100.0 | 100.0 |
 | S05 | 87.5 | 90.63 | 87.5 | 86.31 |
+
+| S07 | 100.0 | 100.0 | 100.0 | 100.0 |
