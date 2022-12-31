@@ -6,7 +6,7 @@
 If you use this code in your research, please kindly cite the following papers
 
 ```bash
-@INPROCEEDINGS{9588702,
+@INPROCEEDINGS{shyam2021eeg,
     title={EEG-Based Emotion Recognition Using Genetic Algorithm Optimized Multi-Layer Perceptron},
     author={Marjit, Shyam and Talukdar, Upasana and Hazarika, Shyamanta M},
     booktitle={2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA)},
