@@ -22,3 +22,17 @@ If you use this code in your research, please kindly cite the following papers
 **Note for readers:**
 The new version of code provides better accuracy due to the updated code for preprocesing step, rest all are same as it was descrived in the paper. The performance of the new version of code are noted in the below table:
 
+Evaluation Method | Valence Arousal 4−types of emotion | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
+-tx-
+|             |          Grouping           || 
+First Header  | Second Header | Third Header | 
+ ------------ | :-----------: | -----------: | 
+Content       |          *Long Cell*        || 
+Content       |   **Cell**    |         Cell | 
+New section   |     More      |         Data | 
+And more      | With an escaped '\|'       || 
+[Prototype table]
+
