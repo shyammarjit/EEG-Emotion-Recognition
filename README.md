@@ -20,7 +20,7 @@ If you use this code in your research, please kindly cite the following papers
 [paper @researchgate](https://www.researchgate.net/profile/Shyam-Marjit-2/publication/355919224_EEG-Based_Emotion_Recognition_Using_Genetic_Algorithm_Optimized_Multi-Layer_Perceptron/links/61c1e26dabfb4634cb3361c9/EEG-Based-Emotion-Recognition-Using-Genetic-Algorithm-Optimized-Multi-Layer-Perceptron.pdf)
 
 **Note for readers:**
-The new version of code provides better accuracy due to the updated code for preprocesing step, rest all are same as it was descrived in the paper. The performance of the new version of code are noted in the below table:
+The new version of code provides better accuracy due to the updated code for preprocesing step, rest all are same as it was descrived in the paper. The performance of the new version of code are noted in the below table:<br/>
 |              | Header 1        | Header 2                       || Header 3                       ||
 |              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
 |==============|-----------------|----------------|----------------|----------------|----------------|
