@@ -3,9 +3,9 @@
 <thead>
 <tr>
 <th></th>
-<th style="text-align:center" colspan="3">Valence</th>
-<th style="text-align:center" colspan="3">Arousal</th>
-<th style="text-align:center" colspan="3">4-Types of emotions</th>
+<th style="text-align:center" colspan="4">Valence</th>
+<th style="text-align:center" colspan="4">Arousal</th>
+<th style="text-align:center" colspan="4">4-Types of emotions</th>
 </tr>
 <tr>
 <th>Subject</th>
@@ -25,36 +25,42 @@
     </thead>
     <tbody>
     <tr>
-    <td> S01 | 87.5 | 100.0	| 80.0 | 88.89 | 100.0 | 100.0 | 100.0 | 100.0 | 87.5 |	81.25	| 87.5 | 83.33</td>
-    <td style="text-align:center">1</td>
-    <td style="text-align:center">2</td>
-    <td style="text-align:center">3</td>
-    <td style="text-align:center">4</td>
-    <td style="text-align:center">5</td>
-    <td style="text-align:center">6</td>
-    <td style="text-align:center">7</td>
-    <td style="text-align:center">8</td>
-    <td style="text-align:center">9</td>
+    <td>S01</td>
+    <td style="text-align:center">87.5</td>
+    <td style="text-align:center">100.0</td>
+    <td style="text-align:center">80.0</td>
+    <td style="text-align:center">88.89</td>
+    <td style="text-align:center">100.0</td>
+    <td style="text-align:center">100.0</td>
+    <td style="text-align:center">100.0</td>
+    <td style="text-align:center">100.0</td>
+    <td style="text-align:center">87.5</td>
+    <td style="text-align:center">81.25</td>
+    <td style="text-align:center">87.5</td>
+    <td style="text-align:center">3.33</td>
     </tr>
     </tbody>
     <tbody>
     <tr>
-<td>10-fold cross validation</td>
-    <td style="text-align:center">1</td>
-    <td style="text-align:center">2</td>
-    <td style="text-align:center">3</td>
-    <td style="text-align:center">4</td>
-    <td style="text-align:center">5</td>
-    <td style="text-align:center">6</td>
-    <td style="text-align:center">7</td>
-    <td style="text-align:center">8</td>
-    <td style="text-align:center">9</td>
+<td>S02</td>
+        <td style="text-align:center">87.5	</td>
+        <td style="text-align:center">100.0	</td>
+        <td style="text-align:center">75.0	</td>
+        <td style="text-align:center">85.71	</td>	
+        <td style="text-align:center">87.5	</td>
+        <td style="text-align:center">83.33	</td>
+        <td style="text-align:center">100.0	</td>
+        <td style="text-align:center">90.91	</td>  
+        <td style="text-align:center">75.0	</td>
+        <td style="text-align:center">87.5	</td>
+        <td style="text-align:center">75.0 </td>
+        <td style="text-align:center">75.83</td>
 </tr>
 </tbody>
 </table>
 </div>
 
-S02	87.5	100.0	75.0	85.71		87.5	83.33	100.0	90.91	  75.0	87.5	75.0 75.83
+
 S03	75.0	100.0	50.0	66.67		87.5	83.34	100.0	90.91	  62.5	77.5	62.5 63.19
 S04	100.0	100.0	100.0	100.0		100.0	100.0	100.0	100.0	  100.0	100.0	100.0 100.0
 S05	100.0	100.0	100.0	100.0		87.5	80.0	100.0	88.89	  87.5 90.63	87.5 86.31
