@@ -26,7 +26,7 @@ The new version of code provides better accuracy due to the updated code for pre
 <thead>
 <tr>
 <th></th>
-<th style="text-align:center" colspan="2">Grouping</th>
+<th style="text-align:center" colspan="3">valence</th>
 </tr>
 <tr>
 <th>First Header</th>
