@@ -57,7 +57,6 @@
         <td style="text-align:center">75.83 </td>
 </tr>
 </tbody>
-</table>
 
 <td>S03</td>
 	<td style="text-align:center">75.0 </td>
