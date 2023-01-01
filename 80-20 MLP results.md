@@ -43,36 +43,35 @@
     <tbody>
     <tr>
 <td>S02</td>
-        <td style="text-align:center">87.5	</td>
-        <td style="text-align:center">100.0	</td>
-        <td style="text-align:center">75.0	</td>
-        <td style="text-align:center">85.71	</td>	
-        <td style="text-align:center">87.5	</td>
-        <td style="text-align:center">83.33	</td>
-        <td style="text-align:center">100.0	</td>
-        <td style="text-align:center">90.91	</td>  
-        <td style="text-align:center">75.0	</td>
-        <td style="text-align:center">87.5	</td>
+        <td style="text-align:center">87.5 </td>
+        <td style="text-align:center">100.0 </td>
         <td style="text-align:center">75.0 </td>
-        <td style="text-align:center">75.83</td>
+        <td style="text-align:center">85.71 </td>	
+        <td style="text-align:center">87.5 </td>
+        <td style="text-align:center">83.33 </td>
+        <td style="text-align:center">100.0 </td>
+        <td style="text-align:center">90.91 </td>  
+        <td style="text-align:center">75.0 </td>
+        <td style="text-align:center">87.5 </td>
+        <td style="text-align:center">75.0 </td>
+        <td style="text-align:center">75.83 </td>
 </tr>
 </tbody>
 </table>
 
 <td>S03</td>
-
-	<td style="text-align:center">75.0	</td>
-    <td style="text-align:center">100.0	</td>
-    <td style="text-align:center">50.0	</td>
-    <td style="text-align:center">66.67	</td>	
-    <td style="text-align:center">87.5	</td>
-    <td style="text-align:center">83.34	</td>
-    <td style="text-align:center">100.0	</td>
-    <td style="text-align:center">90.91	 </td> 
-    <td style="text-align:center">62.5	</td>
-    <td style="text-align:center">77.5	</td>
-    <td style="text-align:center">62.5 </td>
-    <td style="text-align:center">63.19</td>
+	<td style="text-align:center">75.0 </td>
+    	<td style="text-align:center">100.0 </td>
+    	<td style="text-align:center">50.0 </td>
+    	<td style="text-align:center">66.67 </td>	
+    	<td style="text-align:center">87.5 </td>
+    	<td style="text-align:center">83.34 </td>
+    	<td style="text-align:center">100.0 </td>
+    	<td style="text-align:center">90.91 </td> 
+    	<td style="text-align:center">62.5 </td>
+    	<td style="text-align:center">77.5 </td>
+    	<td style="text-align:center">62.5 </td>
+    	<td style="text-align:center">63.19</td>
 </tr>
 </tbody>
 </table>
