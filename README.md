@@ -26,12 +26,13 @@ The new version of code provides better accuracy due to the updated code for pre
 <thead>
 <tr>
 <th></th>
-<th style="text-align:center" colspan="3">valence</th>
+<th style="text-align:center" colspan="3">High/Low Valence</th>
 </tr>
 <tr>
-<th>First Header</th>
-<th style="text-align:center">Second Header</th>
-<th style="text-align:right">Third Header</th>
+<th>Evolution Method</th>
+<th style="text-align:center">Accuracy</th>
+<th style="text-align:right">precession</th>
+<th style="text-align:right">Recall</th>
 </tr>
 </thead>
 <tbody>
