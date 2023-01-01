@@ -37,7 +37,7 @@ The new version of code provides better accuracy due to the updated code for pre
 </thead>
 <tbody>
 <tr>
-<td>Randomly splitted training andtesting with 80:20 partitions</td>
+<td>Randomly splitted training and <br/> testing with 80:20 partitions</td>
 <td style="text-align:center"><strong>Cell</strong></td>
 <td style="text-align:right">Cell</td>
 </tr>
