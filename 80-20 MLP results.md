@@ -195,21 +195,186 @@
 </tr>
 
 <td>S12</td>
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0		
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	  
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0 
-<td style="text-align:center">100.0
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>	
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>  
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0 </td>
+<td style="text-align:center">100.0</td>
 </tr>
 
 <td>S13</td>
+<td style="text-align:center">100.0</td>	
+<td style="text-align:center">100.0</td>	
+<td style="text-align:center">100.0</td>	
+<td style="text-align:center">100.0	</td>	
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	  
+<td style="text-align:center">100.0</td>	</td>
+<td style="text-align:center">100.0</td>	
+<td style="text-align:center">100.0 </td>
+<td style="text-align:center">100.0</td>
+</tr>
+
+<td>S14</td>
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">50.0	</td>
+<td style="text-align:center">66.67	</td>	
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">50.0 </td>
+<td style="text-align:center">66.67    </td>
+<td style="text-align:center">75.0	</td>
+<td style="text-align:center">69.64	</td>
+<td style="text-align:center">75.0 </td>
+<td style="text-align:center">68.75</td>
+</tr>
+
+<td>S15</td>
+<td style="text-align:center">75.0	</td>
+<td style="text-align:center">50.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">66.67	</td>	
+<td style="text-align:center">75.0	</td>
+<td style="text-align:center">60.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">75.0	 </td> 
+<td style="text-align:center">62.5	</td>
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">62.5 </td>
+<td style="text-align:center">68.75</td>
+</tr>
+
+<td>S16</td>
+<td style="text-align:center">100.0</td>	
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>	
+<td style="text-align:center">75.0	</td>
+<td style="text-align:center">66.67	</td>
+<td style="text-align:center">66.67	</td>
+<td style="text-align:center">66.67	 </td> 
+<td style="text-align:center">75.0	</td>
+<td style="text-align:center">75.0	</td>
+<td style="text-align:center">75.0 </td>
+<td style="text-align:center">75.0</td>
+</tr>
+
+<td>S17</td>
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">75.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">85.71	</td>	
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>  
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">90.63	</td>
+<td style="text-align:center">87.5 </td>
+<td style="text-align:center">87.5</td>
+</tr>
+
+<td>S18</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>	
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">50.0	</td>
+<td style="text-align:center">66.67	</td>  
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">77.08	</td>
+<td style="text-align:center">87.5 </td>
+<td style="text-align:center">81.82</td>
+</tr>
+
+<td>S19</td>
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">50.0	</td>
+<td style="text-align:center">66.67	</td>	
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>  
+<td style="text-align:center">87.5	</td>
+<td style="text-align:center">89.29	</td>
+<td style="text-align:center">87.5 </td>
+<td style="text-align:center">85.90</td>
+</tr>
+
+<td>S20</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>	
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	 </td> 
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0	</td>
+<td style="text-align:center">100.0 </td>
+<td style="text-align:center">100.0</td>
+</tr>
+
+<td>S21</td>
+<td style="text-align:center">87.5	
+<td style="text-align:center">83.33	
+<td style="text-align:center">100.0	
+<td style="text-align:center">90.91		
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	  
+<td style="text-align:center">87.5	
+<td style="text-align:center">90.63	
+<td style="text-align:center">87.5 
+<td style="text-align:center">87.14
+</tr>
+
+<td>S22</td>
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0		
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0		
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0
+</tr>
+
+<td>S23</td>
+<td style="text-align:center">87.5	
+<td style="text-align:center">100.0	
+<td style="text-align:center">50.0	
+<td style="text-align:center">66.67		
+<td style="text-align:center">87.5	
+<td style="text-align:center">83.33	
+<td style="text-align:center">100.0	
+<td style="text-align:center">90.91   
+<td style="text-align:center">75.0	
+<td style="text-align:center">85.0	
+<td style="text-align:center">75.0 
+<td style="text-align:center">74.79
+</tr>
+
+<td>S24</td>
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
@@ -224,97 +389,52 @@
 <td style="text-align:center">100.0
 </tr>
 
-<td>S14</td>
-<td style="text-align:center">87.5	
-<td style="text-align:center">100.0	
-<td style="text-align:center">50.0	
-<td style="text-align:center">66.67		
-<td style="text-align:center">87.5	
-<td style="text-align:center">100.0	
-<td style="text-align:center">50.0 
-<td style="text-align:center">66.67    
-<td style="text-align:center">75.0	
-<td style="text-align:center">69.64	
-<td style="text-align:center">75.0 
-<td style="text-align:center">68.75
-</tr>
-
-<td>S15</td>
-<td style="text-align:center">75.0	
-<td style="text-align:center">50.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">66.67		
-<td style="text-align:center">75.0	
-<td style="text-align:center">60.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">75.0	  
-<td style="text-align:center">62.5	
-<td style="text-align:center">87.5	
-<td style="text-align:center">62.5 
-<td style="text-align:center">68.75
-</tr>
-
-<td>S16</td>
+<td>S25</td>
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0		
-<td style="text-align:center">75.0	
-<td style="text-align:center">66.67	
-<td style="text-align:center">66.67	
-<td style="text-align:center">66.67	  
-<td style="text-align:center">75.0	
-<td style="text-align:center">75.0	
-<td style="text-align:center">75.0 
-<td style="text-align:center">75.0
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	  
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0
 </tr>
 
-<td>S17</td>
-<td style="text-align:center">87.5	
+<td>S26</td>
 <td style="text-align:center">75.0	
 <td style="text-align:center">100.0	
+<td style="text-align:center">33.33	
+<td style="text-align:center">50.0		
+<td style="text-align:center">75.0	
+<td style="text-align:center">75.0	
+<td style="text-align:center">75.0	
+<td style="text-align:center">75.0	  
+<td style="text-align:center">50.0	
+<td style="text-align:center">75.0	
+<td style="text-align:center">50.0 
+<td style="text-align:center">56.25
+</tr>
+
+<td>S27</td>
+<td style="text-align:center">87.5	
+<td style="text-align:center">100.0	
+<td style="text-align:center">75.0	
 <td style="text-align:center">85.71		
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	  
 <td style="text-align:center">87.5	
-<td style="text-align:center">90.625	
+<td style="text-align:center">100.0	
 <td style="text-align:center">87.5 
-<td style="text-align:center">87.5
+<td style="text-align:center">91.67
 </tr>
 
-<td>S18</td>
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0		
-<td style="text-align:center">87.5	
-<td style="text-align:center">100.0	
-<td style="text-align:center">50.0	
-<td style="text-align:center">66.67	  
-<td style="text-align:center">87.5	
-<td style="text-align:center">77.08	
-<td style="text-align:center">87.5 
-<td style="text-align:center">81.82
-</tr>
-
-<td>S19</td>
-<td style="text-align:center">87.5	
-<td style="text-align:center">100.0	
-<td style="text-align:center">50.0	
-<td style="text-align:center">66.67		
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	
-<td style="text-align:center">100.0	  
-<td style="text-align:center">87.5	
-<td style="text-align:center">89.29	
-<td style="text-align:center">87.5 
-<td style="text-align:center">85.90
-</tr>
-
-<td>S20</td>
+<td>S28</td>
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
 <td style="text-align:center">100.0	
@@ -329,52 +449,64 @@
 <td style="text-align:center">100.0
 </tr>
 
-<td>S21</td>
-87.5	83.33	100.0	90.91		100.0	100.0	100.0	100.0	  87.5	90.63	87.5 87.14
-</tr>
-
-<td>S22</td>
-100.0	100.0	100.0	100.0		100.0	100.0	100.0 100.0		100.0	100.0	100.0 100.0
-</tr>
-
-<td>S23</td>
-87.5	100.0	50.0	66.67		87.5	83.33	100.0	90.91   75.0	85.0	75.0 74.79
-</tr>
-
-<td>S24</td>
-100.0	100.0	100.0	100.0		100.0	100.0	100.0	100.0	  100.0	100.0	100.0 100.0
-</tr>
-
-<td>S25</td>
-100.0	100.0	100.0	100.0		100.0	100.0	100.0	100.0	  100.0	100.0	100.0 100.0
-</tr>
-
-<td>S26</td>
-75.0	100.0	33.33	50.0		75.0	75.0	75.0	75.0	  50.0	75.0	50.0 56.25
-</tr>
-
-<td>S27</td>
-87.5	100.0	75.0	85.71		100.0	100.0	100.0	100.0	  87.5	100.0	87.5 91.67
-</tr>
-
-<td>S28</td>
-100.0	100.0	100.0	100.0		100.0	100.0	100.0	100.0	  100.0	100.0	100.0 100.0
-</tr>
-
 <td>S29</td>
-87.5	100.0	50.0	66.67		100.0	100.0	100.0 100.0		87.5 76.79	87.5 81.73
+<td style="text-align:center">87.5	
+<td style="text-align:center">100.0	
+<td style="text-align:center">50.0	
+<td style="text-align:center">66.67		
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0		
+<td style="text-align:center">87.5 
+<td style="text-align:center">76.79	
+<td style="text-align:center">87.5 
+<td style="text-align:center">81.73
 </tr>
 
 <td>S30</td>
-87.5	100.0	75.0	85.71		100.0	100.0	100.0	100.0	  87.5	93.75	87.5 88.69
+<td style="text-align:center">87.5	
+<td style="text-align:center">100.0	
+<td style="text-align:center">75.0	
+<td style="text-align:center">85.71		
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	  
+<td style="text-align:center">87.5	
+<td style="text-align:center">93.75	
+<td style="text-align:center">87.5 
+<td style="text-align:center">88.69
 </tr>
 
 <td>S31</td>
-75.0	66.67	66.67	66.67		87.5	75.0	100.0	85.71   75.0	78.13	75.0 73.81
+<td style="text-align:center">75.0	
+<td style="text-align:center">66.67	
+<td style="text-align:center">66.67	
+<td style="text-align:center">66.67		
+<td style="text-align:center">87.5	
+<td style="text-align:center">75.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">85.71   
+<td style="text-align:center">75.0	
+<td style="text-align:center">78.13	
+<td style="text-align:center">75.0 
+<td style="text-align:center">73.81
 </tr>
 
 <td>S32</td>
-100.0	100.0	100.0	100.0		100.0	100.0	100.0	100.0   100.0	100.0	100.0 100.0
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0		
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0   
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0	
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0
 </tr>
 
 
