@@ -1,5 +1,5 @@
 <div class="block-language-tx"><table>
-<caption id="prototypetable">TABLE-III: OVERALL PERFORMANCE OF GA-MLP CLASSIFIER (please refer paper)</caption>
+<caption id="prototypetable">Subject Independent</caption>
 <thead>
 <tr>
 <th></th>
@@ -60,8 +60,23 @@
 </table>
 </div>
 
+<td>S03</td>
 
-S03	75.0	100.0	50.0	66.67		87.5	83.34	100.0	90.91	  62.5	77.5	62.5 63.19
+	<td style="text-align:center">75.0	</td>
+    <td style="text-align:center">100.0	</td>
+    <td style="text-align:center">50.0	</td>
+    <td style="text-align:center">66.67	</td>	
+    <td style="text-align:center">87.5	</td>
+    <td style="text-align:center">83.34	</td>
+    <td style="text-align:center">100.0	</td>
+    <td style="text-align:center">90.91	 </td> 
+    <td style="text-align:center">62.5	</td>
+    <td style="text-align:center">77.5	</td>
+    <td style="text-align:center">62.5 </td>
+    <td style="text-align:center">63.19</td>
+</tr>
+
+
 S04	100.0	100.0	100.0	100.0		100.0	100.0	100.0	100.0	  100.0	100.0	100.0 100.0
 S05	100.0	100.0	100.0	100.0		87.5	80.0	100.0	88.89	  87.5 90.63	87.5 86.31
 S06	87.5	100.0	50.0	66.67		75.0	100.0	50.0	66.67   62.5	53.57	62.5 53.03
