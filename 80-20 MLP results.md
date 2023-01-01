@@ -58,7 +58,6 @@
 </tr>
 </tbody>
 </table>
-</div>
 
 <td>S03</td>
 
