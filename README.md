@@ -26,11 +26,18 @@ The new version of code provides better accuracy due to the updated code for pre
 <thead>
 <tr>
 <th></th>
-<th style="text-align:center" colspan="3">High/Low Valence</th>
-<th style="text-align:center" colspan="3">High/Low Arousal</th>
+<th style="text-align:center" colspan="3">Valence</th>
+<th style="text-align:center" colspan="3">Arousal</th>
+<th style="text-align:center" colspan="3">4-Types of emotions</th>
 </tr>
 <tr>
 <th>Evolution Method</th>
+<th style="text-align:center">Accuracy</th>
+<th style="text-align:right">Precession</th>
+<th style="text-align:right">Recall</th>
+<th style="text-align:center">Accuracy</th>
+<th style="text-align:right">Precession</th>
+<th style="text-align:right">Recall</th>
 <th style="text-align:center">Accuracy</th>
 <th style="text-align:right">Precession</th>
 <th style="text-align:right">Recall</th>
