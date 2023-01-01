@@ -38,10 +38,6 @@ The new version of code provides better accuracy due to the updated code for pre
 <tbody>
 <tr>
 <td>Content</td>
-<td style="text-align:center" colspan="2"><em>Long Cell</em></td>
-</tr>
-<tr>
-<td>Content</td>
 <td style="text-align:center"><strong>Cell</strong></td>
 <td style="text-align:right">Cell</td>
 </tr>
