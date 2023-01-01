@@ -39,9 +39,6 @@
     <td style="text-align:center">87.5</td>
     <td style="text-align:center">3.33</td>
     </tr>
-    </tbody>
-    <tbody>
-    <tr>
 <td>S02</td>
         <td style="text-align:center">87.5 </td>
         <td style="text-align:center">100.0 </td>
@@ -56,7 +53,6 @@
         <td style="text-align:center">75.0 </td>
         <td style="text-align:center">75.83 </td>
 </tr>
-</tbody>
 
 <td>S03</td>
 	<td style="text-align:center">75.0 </td>
@@ -72,7 +68,6 @@
     	<td style="text-align:center">62.5 </td>
     	<td style="text-align:center">63.19</td>
 </tr>
-</tbody>
 
 <td>S04</td>
 <td style="text-align:center">100.0	</td>
