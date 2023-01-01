@@ -59,13 +59,16 @@ The new version of code provides better accuracy due to the updated code for pre
     </tbody>
     <tbody>
     <tr>
-<td>New section</td>
-<td style="text-align:center">More</td>
-<td style="text-align:right">Data</td>
-</tr>
-<tr>
-<td>And more</td>
-<td style="text-align:center" colspan="2">With an escaped '|'</td>
+<td>10-fold cross validation</td>
+    <td style="text-align:center">1</td>
+    <td style="text-align:center">2</td>
+    <td style="text-align:center">3</td>
+    <td style="text-align:center">4</td>
+    <td style="text-align:center">5</td>
+    <td style="text-align:center">6</td>
+    <td style="text-align:center">7</td>
+    <td style="text-align:center">8</td>
+    <td style="text-align:center">9</td>
 </tr>
 </tbody>
 </table>
