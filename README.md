@@ -27,23 +27,25 @@ The new version of code provides better accuracy due to the updated code for pre
 <tr>
 <th></th>
 <th style="text-align:center" colspan="3">High/Low Valence</th>
+<th style="text-align:center" colspan="3">High/Low Arousal</th>
 </tr>
 <tr>
 <th>Evolution Method</th>
 <th style="text-align:center">Accuracy</th>
-<th style="text-align:right">precession</th>
+<th style="text-align:right">Precession</th>
 <th style="text-align:right">Recall</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Randomly splitted training and <br/> testing with 80:20 partitions</td>
-<td style="text-align:center"><strong>Cell</strong></td>
-<td style="text-align:right">Cell</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>Randomly splitted training and <br/> testing with 80:20 partitions</td>
+    <td style="text-align:center">Cell*</td>
+    <td style="text-align:center">Cell</td>
+    <td style="text-align:center">Cell</td>
+    </tr>
+    </tbody>
+    <tbody>
+    <tr>
 <td>New section</td>
 <td style="text-align:center">More</td>
 <td style="text-align:right">Data</td>
