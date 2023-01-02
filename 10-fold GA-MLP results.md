@@ -435,7 +435,7 @@
 <td style="text-align:center">90.5
 </tr>
 <td>S30</td>
-95.0 
+<td style="text-align:center">95.0 
 <td style="text-align:center">95.0 
 <td style="text-align:center">100.0 
 <td style="text-align:center">97.14   
