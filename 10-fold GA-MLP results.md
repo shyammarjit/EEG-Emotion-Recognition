@@ -211,7 +211,18 @@
 <td style="text-align:center">93.0
 </tr>
 <td>S14</td>
-97.5 96.67 100.0 98.0   100.0 100.0 100.0 100.0   97.5 98.75 97.5 97.5
+<td style="text-align:center">97.5 
+<td style="text-align:center">96.67 
+<td style="text-align:center">100.0 
+<td style="text-align:center">98.0   
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0 
+<td style="text-align:center">100.0   
+<td style="text-align:center">97.5 
+<td style="text-align:center">98.75 
+<td style="text-align:center">97.5 
+<td style="text-align:center">97.5
 </tr>
 <td>S15</td>
 <td style="text-align:center">97.5 
