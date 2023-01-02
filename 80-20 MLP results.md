@@ -37,7 +37,7 @@
     <td style="text-align:center">87.5</td>
     <td style="text-align:center">81.25</td>
     <td style="text-align:center">87.5</td>
-    <td style="text-align:center">3.33</td>
+    <td style="text-align:center">83.33</td>
     </tr>
 <td>S02</td>
         <td style="text-align:center">87.5 </td>
