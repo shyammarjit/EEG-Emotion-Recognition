@@ -1,5 +1,5 @@
 <div class="block-language-tx"><table>
-<caption id="prototypetable">Subject Dependent 80-20 split results using GA-MLP</caption>
+<caption id="prototypetable">Subject Dependent 10-fold cross validation results using GA-MLP.</caption>
 <thead>
 <tr>
 <th></th>
@@ -497,26 +497,6 @@
 </tbody>
 </table>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
