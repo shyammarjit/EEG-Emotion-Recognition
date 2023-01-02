@@ -29,16 +29,16 @@ The new version of code provides better accuracy due to the updated code for pre
     <tbody>
     <tr>
     <td>Randomly splitted training and <br/> testing with 80:20 partitions</td>
-    <td style="text-align:center">1</td>
-    <td style="text-align:center">2</td>
-    <td style="text-align:center">3</td>
-    <td style="text-align:center">4</td>
-    <td style="text-align:center">5</td>
-    <td style="text-align:center">6</td>
-    <td style="text-align:center">7</td>
-    <td style="text-align:center">8</td>
-    <td style="text-align:center">9</td>
-    </tr>
+    <td style="text-align:center"><b>92.2 &plusmn 8.84<b>	
+    <td style="text-align:center"><b>95.3 &plusmn 12<b>
+    <td style="text-align:center"><b>84.5 &plusmn 22.1<b>
+    <td style="text-align:center"><b> 92.97 &plusmn 8.95<b>
+    <td style="text-align:center"><b> 93.18 &plusmn 11.82<b>
+    <td style="text-align:center"><b> 91.4 &plusmn 17.1<b>
+    <td style="text-align:center"><b> 85.94 &plusmn 13.75<b>
+    <td style="text-align:center"><b> 88.58 &plusmn 12.43 <b>
+    <td style="text-align:center"><b> 85.94 &plusmn 13.75 <b>
+</tr>
     </tbody>
     <tbody>
     <tr>
