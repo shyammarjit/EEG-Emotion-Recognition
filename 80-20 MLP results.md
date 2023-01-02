@@ -504,18 +504,18 @@
 <td style="text-align:center">100.0
 </tr>
 <td>Final</td>
-<td style="text-align:center"><b>92.2&plusmn8.84<b>	
-<td style="text-align:center"><b>95.3$\pm$12<b>
-<td style="text-align:center"><b>84.5$\pm$22.1<b>
-<td style="text-align:center"><b>87.24 &#177 15.46<b>
-<td style="text-align:center"><b><b>
-<td style="text-align:center"><b><b>
-<td style="text-align:center"><b><b>
-<td style="text-align:center"><b><b>
-<td style="text-align:center"><b><b>
-<td style="text-align:center"><b><b>
-<td style="text-align:center"><b><b>
-<td style="text-align:center"><b><b>
+<td style="text-align:center"><b>92.2 &plusmn 8.84<b>	
+<td style="text-align:center"><b>95.3 &plusmn 12<b>
+<td style="text-align:center"><b>84.5 &plusmn 22.1<b>
+<td style="text-align:center"><b>87.24 &plusmn 15.46<b>
+<td style="text-align:center"><b> 92.97 &plusmn 8.95<b>
+<td style="text-align:center"><b> 93.18 &plusmn 11.82<b>
+<td style="text-align:center"><b> 91.4 &plusmn 17.1<b>
+<td style="text-align:center"><b> 90.93 &plusmn 12.23<b>
+<td style="text-align:center"><b> 85.94 &plusmn 13.75<b>
+<td style="text-align:center"><b> 88.58 &plusmn 12.43 <b>
+<td style="text-align:center"><b> 85.94 &plusmn 13.75 <b>
+<td style="text-align:center"><b> 85. 39 &plusmn 14.06<b>
 </tr>
 
 
