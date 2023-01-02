@@ -507,7 +507,7 @@
 <td style="text-align:center"><b>92.2&plusmn8.84<b>	
 <td style="text-align:center"><b>95.3$\pm$12<b>
 <td style="text-align:center"><b>84.5$\pm$22.1<b>
-<td style="text-align:center"><b>87.24$\pm$15.46<b>
+<td style="text-align:center"><b>87.24 &#177 15.46<b>
 <td style="text-align:center"><b><b>
 <td style="text-align:center"><b><b>
 <td style="text-align:center"><b><b>
