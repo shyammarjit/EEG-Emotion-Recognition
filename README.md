@@ -43,15 +43,15 @@ The new version of code provides better accuracy due to the updated code for pre
     <tbody>
     <tr>
 <td>10-fold cross validation</td>
-    <td style="text-align:center">1</td>
-    <td style="text-align:center">2</td>
-    <td style="text-align:center">3</td>
-    <td style="text-align:center">4</td>
-    <td style="text-align:center">5</td>
-    <td style="text-align:center">6</td>
-    <td style="text-align:center">7</td>
-    <td style="text-align:center">8</td>
-    <td style="text-align:center">9</td>
+    <td style="text-align:center"><b> 96.64 &plusmn 2.43<b>	
+    <td style="text-align:center"><b> 96.02 &plusmn 4.44<b>
+    <td style="text-align:center"><b> 97.9 &plusmn 4.7<b>
+    <td style="text-align:center"><b> 96.56 &plusmn 2.52<b>
+    <td style="text-align:center"><b> 95.37 &plusmn 4.82<b>
+    <td style="text-align:center"><b> 97.2 &plusmn 5.5<b>
+    <td style="text-align:center"><b> 93.28 &plusmn 2.87<b>
+    <td style="text-align:center"><b> 90.76 &plusmn 4.43<b>
+    <td style="text-align:center"><b> 93.28 &plusmn 2.87<b>
 </tr>
 </tbody>
 </table>
