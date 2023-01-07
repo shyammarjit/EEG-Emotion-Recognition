@@ -62,13 +62,13 @@ If you use this code in your research, please kindly cite the following papers
 
 ```bash
 @INPROCEEDINGS{shyam2021eeg,
-    title={EEG-Based Emotion Recognition Using Genetic Algorithm Optimized Multi-Layer Perceptron},
+    title={Enhancing {EEG-}Based Emotion Recognition using MultiDomain Features and Genetic Algorithm based Feature Selection},
     author={Marjit, Shyam and Talukdar, Upasana and Hazarika, Shyamanta M},
-    booktitle={2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA)},
+    booktitle={9th International Conference on Pattern Recognition and Machine Intelligence},
     year={2021},
-    pages={304-309},
-    organization={IEEE},
-    doi={10.1109/IRIA53009.2021.9588702}
+    pages={-},
+    organization={Springer},
+    doi={}
 }
 ```
 paper [\[@IEEE Xplore\]](https://ieeexplore.ieee.org/abstract/document/9588702)<br/>
