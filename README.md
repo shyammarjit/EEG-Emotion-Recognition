@@ -1,4 +1,10 @@
-# EEG-Based Emotion Recognition Using Genetic Algorithm Optimized Multi-Layer Perceptron
+# EEG-Based Emotion Recognition Using Genetic Algorithm Optimized Multi-Layer Perceptron (IRIA 2021)
+
+[Shyam Marjit](shyammarjit.github.io), [Upasana Talukdar](https://www.iiitg.ac.in/faculty/upasana/), and [Shyamanta M Hazarika](https://www.iitg.ac.in/s.m.hazarika/)
+
+[![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9588702)
+[![supplement](https://img.shields.io/badge/Supplementary-Material-red)](https://drive.google.com/file/d/1oKGON8vG4uDWMmZKqHeTMnFowhOubifK/view?usp=sharing)
+
 <hr />
 
 > ***Abstract:*** Emotion Recognition is an important problemwithin Affective Computing and Human Computer Interaction.In recent years, various machine learning models have providedsignificant progress in the field of emotion recognition. Thispaper proposes a framework for EEG-based emotion recog-nition using Multi Layer Perceptron (MLP). Power SpectralDensity features were used for quantifying the emotions interms of valence-arousal scale and MLP is used for classification.Genetic algorithm is used to optimize the architecture of MLP.The proposed model identifies a. two classes of emotions viz. Low/High Valence with an average accuracy of 91.10% andLow/High Arousal with an average accuracy of 91.02%, b. fourclasses of emotions viz. High Valence-Low Arousal (HVLA), High Valence-High Arousal (HVHA), Low Valence-Low Arousal (LVLA) and Low Valence-High Arousal (LVHA) with 83.52%accuracy.The reported results are better compared to existing results in the literature.
@@ -76,4 +82,3 @@ If you use this code in your research, please kindly cite the following papers
     doi={10.1109/IRIA53009.2021.9588702}
 }
 ```
-paper [\[@IEEE Xplore\]](https://ieeexplore.ieee.org/abstract/document/9588702)<br/>
