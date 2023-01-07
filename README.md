@@ -71,4 +71,4 @@ If you use this code in your research, please kindly cite the following papers
     doi={}
 }
 ```
-[\[@paper\]](https://link.springer.com/book/9783031126994)<br/>
+[\[paper\]](https://link.springer.com/book/9783031126994)<br/>
