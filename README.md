@@ -1,6 +1,6 @@
 # EEG-Based Emotion Recognition Using Genetic Algorithm Optimized Multi-Layer Perceptron (PReMI 2021)
 
-[![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9588702)
+[![paper](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)]()
 [![code](https://img.shields.io/badge/code-orange)]()
 [![youtube video](https://img.shields.io/badge/video--youtube-blue)](https://www.youtube.com/watch?v=hZQbuFE8iIs)
 [![presentation](https://img.shields.io/badge/presentation-red)]()
