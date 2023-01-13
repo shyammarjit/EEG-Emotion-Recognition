@@ -3,7 +3,8 @@
 [Shyam Marjit](shyammarjit.github.io), [Upasana Talukdar](https://www.iiitg.ac.in/faculty/upasana/), and [Shyamanta M Hazarika](https://www.iitg.ac.in/s.m.hazarika/)
 
 [![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9588702)
-[![code](https://img.shields.io/badge/code-red)]()
+[![code](https://img.shields.io/badge/80-20-red)]()
+[![code](https://img.shields.io/badge/GA-MLP-red)]()
 
 <hr />
 
