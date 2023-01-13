@@ -10,8 +10,6 @@
 > ***Keywords*** — EEG, Emotions, Time Domain, Frequency Domain, Genetic Algorithm, Feature Selection, Multi-Layer Perceptron.
 <hr />
 
-[paper]() [code]() [video](https://youtu.be/hZQbuFE8iIs) [presentation]()
-
 ## Citation
 If you use this code in your research, please kindly cite the following papers
 
@@ -26,4 +24,3 @@ If you use this code in your research, please kindly cite the following papers
     doi={}
 }
 ```
-[\[paper\]](https://link.springer.com/book/9783031126994)<br/>
