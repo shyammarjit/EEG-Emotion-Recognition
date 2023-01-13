@@ -4,7 +4,7 @@
 
 [![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9588702)
 [![code]([https://img.shields.io/badge/80:20-red])]()
-[![code](https://img.shields.io/badge/GA--MLP-red)]()
+[![code](https://img.shields.io/badge/code-80--20-yellow)]()
 
 <hr />
 
