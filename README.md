@@ -4,9 +4,9 @@
 
 [![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9588702)
 [![code](https://img.shields.io/badge/code-80:20-orange)](https://github.com/shyammarjit/GA-MLP-for-Emotion-Recognition/blob/IRIA-2021/%5BS01%5D%20%5BGA-MLP%5D%20%5B80-20%5D.ipynb)
-[![code](https://img.shields.io/badge/code-GA--MLP-orange)]()
-[![result](https://img.shields.io/badge/result-80:20-blue)]()
-[![result](https://img.shields.io/badge/result-GA--MLP-blue)]()
+[![code](https://img.shields.io/badge/code-10--fold-orange)]()
+[![result](https://img.shields.io/badge/result-80:20-blue)](https://github.com/shyammarjit/GA-MLP-for-Emotion-Recognition/blob/IRIA-2021/80-20%20GA-MLP%20results.md)
+[![result](https://img.shields.io/badge/result-10--fold-blue)](https://github.com/shyammarjit/GA-MLP-for-Emotion-Recognition/blob/IRIA-2021/10-fold%20GA-MLP%20results.md)
 <hr />
 
 > ***Abstract:*** Emotion Recognition is an important problemwithin Affective Computing and Human Computer Interaction.In recent years, various machine learning models have providedsignificant progress in the field of emotion recognition. Thispaper proposes a framework for EEG-based emotion recog-nition using Multi Layer Perceptron (MLP). Power SpectralDensity features were used for quantifying the emotions interms of valence-arousal scale and MLP is used for classification.Genetic algorithm is used to optimize the architecture of MLP.The proposed model identifies a. two classes of emotions viz. Low/High Valence with an average accuracy of 91.10% andLow/High Arousal with an average accuracy of 91.02%, b. fourclasses of emotions viz. High Valence-Low Arousal (HVLA), High Valence-High Arousal (HVHA), Low Valence-Low Arousal (LVLA) and Low Valence-High Arousal (LVHA) with 83.52%accuracy.The reported results are better compared to existing results in the literature.<br/>
