@@ -9,11 +9,10 @@
 [![result](https://img.shields.io/badge/result-GA--MLP-blue)]()
 <hr />
 
-> ***Abstract:*** Emotion Recognition is an important problemwithin Affective Computing and Human Computer Interaction.In recent years, various machine learning models have providedsignificant progress in the field of emotion recognition. Thispaper proposes a framework for EEG-based emotion recog-nition using Multi Layer Perceptron (MLP). Power SpectralDensity features were used for quantifying the emotions interms of valence-arousal scale and MLP is used for classification.Genetic algorithm is used to optimize the architecture of MLP.The proposed model identifies a. two classes of emotions viz. Low/High Valence with an average accuracy of 91.10% andLow/High Arousal with an average accuracy of 91.02%, b. fourclasses of emotions viz. High Valence-Low Arousal (HVLA), High Valence-High Arousal (HVHA), Low Valence-Low Arousal (LVLA) and Low Valence-High Arousal (LVHA) with 83.52%accuracy.The reported results are better compared to existing results in the literature.
-
+> ***Abstract:*** Emotion Recognition is an important problemwithin Affective Computing and Human Computer Interaction.In recent years, various machine learning models have providedsignificant progress in the field of emotion recognition. Thispaper proposes a framework for EEG-based emotion recog-nition using Multi Layer Perceptron (MLP). Power SpectralDensity features were used for quantifying the emotions interms of valence-arousal scale and MLP is used for classification.Genetic algorithm is used to optimize the architecture of MLP.The proposed model identifies a. two classes of emotions viz. Low/High Valence with an average accuracy of 91.10% andLow/High Arousal with an average accuracy of 91.02%, b. fourclasses of emotions viz. High Valence-Low Arousal (HVLA), High Valence-High Arousal (HVHA), Low Valence-Low Arousal (LVLA) and Low Valence-High Arousal (LVHA) with 83.52%accuracy.The reported results are better compared to existing results in the literature.<br/>
+***Index Terms*** — EEG, Emotions, Power Spectral Density, Multi-Layer Perceptron, Genetic Algorithm.
 <hr />
 
-***Index Terms*** — EEG, Emotions, Power Spectral Density, Multi-Layer Perceptron, Genetic Algorithm.
 
 **Note for readers:**
 The new version of code provides better accuracy due to the updated code for preprocesing step, rest all are same as it was descrived in the paper. The performance of the new version of code are noted in the below table:<br/>
