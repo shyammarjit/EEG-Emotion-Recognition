@@ -3,7 +3,7 @@
 [Shyam Marjit](shyammarjit.github.io), [Upasana Talukdar](https://www.iiitg.ac.in/faculty/upasana/), and [Shyamanta M Hazarika](https://www.iitg.ac.in/s.m.hazarika/)
 
 [![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9588702)
-[![code](https://img.shields.io/badge/code-80:20-orange)]()
+[![code](https://img.shields.io/badge/code-80:20-orange)](https://github.com/shyammarjit/GA-MLP-for-Emotion-Recognition/blob/IRIA-2021/%5BS01%5D%20%5BGA-MLP%5D%20%5B80-20%5D.ipynb)
 [![code](https://img.shields.io/badge/code-GA--MLP-orange)]()
 <hr />
 
