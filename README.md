@@ -4,7 +4,7 @@
 
 [![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9588702)
 [![code](https://img.shields.io/badge/code-80:20-orange)](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/IRIA-2021/%5BS01%5D%20%5BGA-MLP%5D%20%5B80-20%5D.ipynb)
-[![code](https://img.shields.io/badge/code-10--fold-orange)]()
+[![code](https://img.shields.io/badge/code-10--fold-orange)](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/IRIA-2021/%5BS01%5D%20%5BGA-MLP%5D%20%5B10-fold%5D.ipynb)
 [![result](https://img.shields.io/badge/result-80:20-blue)](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/IRIA-2021/80-20%20GA-MLP%20results.md)
 [![result](https://img.shields.io/badge/result-10--fold-blue)](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/IRIA-2021/10-fold%20GA-MLP%20results.md)
 <hr />
