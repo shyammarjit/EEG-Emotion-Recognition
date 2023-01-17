@@ -10,6 +10,11 @@
 > ***Keywords*** — EEG, Emotions, Time Domain, Frequency Domain, Genetic Algorithm, Feature Selection, Multi-Layer Perceptron.
 <hr />
 
+# How to run the code?
+1. [Data handling and preprocessing]()
+2. [Multi-Domain Feature Extraction]()
+3. [GA-based Feature Selection]()
+4. [GA-MLP]()
 ## Citation
 If you use this code in your research, please kindly cite the following papers
 
