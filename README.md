@@ -1,6 +1,6 @@
 # Enhancing EEG-Based Emotion Recognition using MultiDomain Features and Genetic Algorithm based Feature Selection (PReMI 2021)
 
-[Shyam Marjit](shyammarjit.github.io), [Upasana Talukdar](https://www.iiitg.ac.in/faculty/upasana/), and [Shyamanta M Hazarika](https://www.iitg.ac.in/s.m.hazarika/)
+[Shyam Marjit](shyammarjit.github.io), [Upasana Talukdar](https://www.iiitg.ac.in/faculty/upasana/), and [Shyamanta M Hazarika](https://www.iitg.ac.in/s.m.hazarika/).
 
 [![paper](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)]()
 [![code](https://img.shields.io/badge/code-orange)]()
@@ -12,14 +12,15 @@
 > ***Keywords*** — EEG, Emotions, Time Domain, Frequency Domain, Genetic Algorithm, Feature Selection, Multi-Layer Perceptron.
 <hr />
 
-## How to run the code?<br/>
+## 🚀 How to run the code?<br/>
 start with [\[main.py\]](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/main.py)
 1. [Data Handling and Preprocessing](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/data_preprocessing.py)
 2. [Multi-Domain Feature Extraction](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/MultiDomain_Feature_Extraction.py)
 3. [GA-based Feature Selection](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/feature_selection.py)
 4. [GA-MLP](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/GAMLP.py)
-## Citation
-If you use this code in your research, please kindly cite the following papers
+
+## ✏️ Citation
+If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
 
 ```bash
 @INPROCEEDINGS{shyam2021eeg,
