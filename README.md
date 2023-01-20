@@ -41,7 +41,7 @@ The new version of code provides better accuracy due to the updated code for pre
     <tbody>
     <tr>
     <td>Randomly splitted training and <br/> testing with 80:20 partitions</td>
-    <td style="text-align:center"><b>92.2 &plusmn 8.84<b>	
+    <td style="text-align:center">92.2 &plusmn 8.84
     <td style="text-align:center"><b>95.3 &plusmn 12<b>
     <td style="text-align:center"><b>84.5 &plusmn 22.1<b>
     <td style="text-align:center"><b> 92.97 &plusmn 8.95<b>
