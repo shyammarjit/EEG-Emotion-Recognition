@@ -33,3 +33,7 @@ If you think this project is helpful, please feel free to leave a star⭐️ and
     doi={}
 }
 ```
+
+## ☎️ Contact
+
+Shyam Marjit: marjitshyam@gmail.com
