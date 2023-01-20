@@ -13,7 +13,7 @@
 <hr />
 
 ## 🚀 How to run the code?<br/>
-start with [main.py](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/main.py)
+start with [[main.py](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/main.py)]
 1. [Data Handling and Preprocessing](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/data_preprocessing.py)
 2. [Multi-Domain Feature Extraction](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/MultiDomain_Feature_Extraction.py)
 3. [GA-based Feature Selection](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/feature_selection.py)
