@@ -14,7 +14,7 @@
 <hr />
 
 
-**Note for readers:**
+**✨ Note for readers:**
 The new version of code provides better accuracy due to the updated code for preprocesing step, rest all are same as it was descrived in the paper. The performance of the new version of code are noted in the below table:<br/>
 <div class="block-language-tx"><table>
 <caption id="prototypetable">TABLE-III: OVERALL PERFORMANCE OF GA-MLP CLASSIFIER (please refer paper)</caption>
@@ -69,8 +69,8 @@ The new version of code provides better accuracy due to the updated code for pre
 </table>
 </div>
 
-## Citation
-If you use this code in your research, please kindly cite the following papers
+## ✏️ Citation
+If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
 
 ```bash
 @INPROCEEDINGS{shyam2021eeg,
