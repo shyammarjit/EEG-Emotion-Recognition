@@ -1,5 +1,7 @@
 # Enhancing EEG-Based Emotion Recognition using MultiDomain Features and Genetic Algorithm based Feature Selection (PReMI 2021)
 
+[Shyam Marjit](shyammarjit.github.io), [Upasana Talukdar](https://www.iiitg.ac.in/faculty/upasana/), and [Shyamanta M Hazarika](https://www.iitg.ac.in/s.m.hazarika/)
+
 [![paper](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)]()
 [![code](https://img.shields.io/badge/code-orange)]()
 [![youtube video](https://img.shields.io/badge/video--youtube-blue)](https://www.youtube.com/watch?v=hZQbuFE8iIs)
