@@ -42,28 +42,28 @@ The new version of code provides better accuracy due to the updated code for pre
     <tr>
     <td>Randomly splitted training and <br/> testing with 80:20 partitions</td>
     <td style="text-align:center">92.2 &plusmn 8.84
-    <td style="text-align:center"><b>95.3 &plusmn 12<b>
-    <td style="text-align:center"><b>84.5 &plusmn 22.1<b>
-    <td style="text-align:center"><b> 92.97 &plusmn 8.95<b>
-    <td style="text-align:center"><b> 93.18 &plusmn 11.82<b>
-    <td style="text-align:center"><b> 91.4 &plusmn 17.1<b>
-    <td style="text-align:center"><b> 85.94 &plusmn 13.75<b>
-    <td style="text-align:center"><b> 88.58 &plusmn 12.43 <b>
-    <td style="text-align:center"><b> 85.94 &plusmn 13.75 <b>
+    <td style="text-align:center">95.3 &plusmn 12
+    <td style="text-align:center">84.5 &plusmn 22.1
+    <td style="text-align:center">92.97 &plusmn 8.95
+    <td style="text-align:center">93.18 &plusmn 11.82
+    <td style="text-align:center">91.4 &plusmn 17.1
+    <td style="text-align:center">85.94 &plusmn 13.75
+    <td style="text-align:center">88.58 &plusmn 12.43
+    <td style="text-align:center">85.94 &plusmn 13.75
 </tr>
     </tbody>
     <tbody>
     <tr>
 <td>10-fold cross validation</td>
-    <td style="text-align:center"><b> 96.64 &plusmn 2.43<b>	
-    <td style="text-align:center"><b> 96.02 &plusmn 4.44<b>
-    <td style="text-align:center"><b> 97.9 &plusmn 4.7<b>
-    <td style="text-align:center"><b> 96.56 &plusmn 2.52<b>
-    <td style="text-align:center"><b> 95.37 &plusmn 4.82<b>
-    <td style="text-align:center"><b> 97.2 &plusmn 5.5<b>
-    <td style="text-align:center"><b> 93.28 &plusmn 2.87<b>
-    <td style="text-align:center"><b> 90.76 &plusmn 4.43<b>
-    <td style="text-align:center"><b> 93.28 &plusmn 2.87<b>
+    <td style="text-align:center">96.64 &plusmn 2.43
+    <td style="text-align:center">96.02 &plusmn 4.44
+    <td style="text-align:center">97.9 &plusmn 4.7
+    <td style="text-align:center">96.56 &plusmn 2.52
+    <td style="text-align:center">95.37 &plusmn 4.82
+    <td style="text-align:center">97.2 &plusmn 5.5
+    <td style="text-align:center">93.28 &plusmn 2.87
+    <td style="text-align:center">90.76 &plusmn 4.43
+    <td style="text-align:center">93.28 &plusmn 2.87
 </tr>
 </tbody>
 </table>
