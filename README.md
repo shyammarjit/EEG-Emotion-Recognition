@@ -2,8 +2,8 @@
 
 [Shyam Marjit](shyammarjit.github.io), [Upasana Talukdar](https://www.iiitg.ac.in/faculty/upasana/), and [Shyamanta M Hazarika](https://www.iitg.ac.in/s.m.hazarika/).
 
-[![paper](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)]()
-[![code](https://img.shields.io/badge/code-orange)]()
+[![paper](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)](https://link.springer.com/book/9783031126994)
+[![code](https://img.shields.io/badge/code-orange)](https://github.com/shyammarjit/EEG-Emotion-Recognition/tree/PReMI-2021/code)
 [![youtube video](https://img.shields.io/badge/video--youtube-blue)](https://www.youtube.com/watch?v=hZQbuFE8iIs)
 [![presentation](https://img.shields.io/badge/presentation-red)](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/Premi%20presentation.pdf)
 <hr />
