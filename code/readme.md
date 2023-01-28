@@ -1,9 +1,9 @@
 ## Structure of Code
 ```text
-├── main.py                                 <- main code (only need to run this script)
+├── main.py                                 <- main code (only this script needs to run)
 │   ├── data_preprocessing.py               <- Data Preprocessing [Band Pass Filtering -> ICA -> CAR]
-│   ├── MultiDomain_Feature_Extraction.py   <- Multi Domain Features Extraction 
-│       ├── utils.py                        <- Functions for features extraction
+│   ├── MultiDomain_Feature_Extraction.py   <- Multi-Domain features extraction
+│       ├── utils.py                        <- Functions for feature extraction
 │   ├── feature_selection.py                <- Genetic Algorithm for feature selection
 │   ├── GAMLP.py                            <- Genetic Algorithm optimized Multi-Layer Perceptron
 ```
