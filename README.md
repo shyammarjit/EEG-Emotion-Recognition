@@ -13,6 +13,15 @@
 > ***Index Terms*** — EEG, Emotions, Power Spectral Density, Multi-Layer Perceptron, Genetic Algorithm.
 <hr />
 
+**✨ Description of few imp variables:**
+```
+dataset_path  <- Path for the DEAP dataset
+subject_no    <- Subject number in string format for e.g. "s02", "s12"
+generations   <- No of generations in GA
+pop_size      <- Size of the population in GA
+prob_cross    <- Crossover probability in GA
+prob_mut      <- Mutation probability in GA
+```
 
 **✨ Note for readers:**
 The new version of code provides better accuracy due to the updated code for preprocesing step, rest all are same as it was descrived in the paper. The performance of the new version of code are noted in the below table:<br/>
