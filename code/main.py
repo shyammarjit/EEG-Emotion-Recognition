@@ -120,6 +120,19 @@ if __name__ == "__main__":
 	# perform 10-fold cross validation
 	train_data, train_label, test_data, test_label = kfold(scalled_data, label)
 
+	# GA variables for Feature selection
+	GAFS_numPop = 100
+	GAFS_numGen = 50
+	GAFS_cross_prob = 0.65
+	GAFS_mut_prob = 0.15
+	alpha = 0.90
+	
+	# GA variables for GA-MLP
+	GAMLP_numPop = 20
+	GAMLP_numGen = 10
+	GAMLP_prob_cross = 0.95
+	GAMLP_prob_mut = 0.15
+	
 	
 	#from GAMLP import GA_MLP
 	fold = []
@@ -134,14 +147,14 @@ if __name__ == "__main__":
 	    # data tuple creation
 	    data = dict(trainX=train_data[ifold], testX=test_data[ifold], trainY=trainy_val, testY=testy_val)
 	    # perform Genetic Algorithm based feature selection
-	    opt_indivisual = GAFS(data)
+	    opt_ind = GAFS(data, numPop = GAFS_numPop, numGen = GAFS_numGen, cross_prob = GAFS_cross_prob, mut_prob = GAFS_mut_prob, alpha = alpha)
 	    # optimal individual to feature subset
-	    features = ind_to_feat(data['trainX'].columns, opt_indivisual)
+	    features = ind_to_feat(data['trainX'].columns, opt_ind)
 	    # data tuple creation
 	    data = dict(trainX=data['trainX'][features], testX=data['testX'][features],\
 	                trainY=trainy_val, testY=testy_val)
 	    # perform GA-MLP on the optimal feature subsets
-	    y_pred_val = GA_MLP(data)
+	    y_pred_val = GA_MLP(data, generations = GA_MLP_numGen, pop_size = GA_MLP_numPop, prob_cross = GAMLP_prob_cross, prob_mut = GAMLP_prob_mut)
 	    # get the performance
 	    acc_val, prec_val, recall_val, f1_val = performance(y_pred_val, data['testY'])
 	    
@@ -151,14 +164,14 @@ if __name__ == "__main__":
 	    # data tuple creation
 	    data = dict(trainX=train_data[ifold], testX=test_data[ifold], trainY=trainy_ar, testY=testy_ar)
 	    # perform Genetic Algorithm based feature selection
-	    opt_indivisual = GAFS(data)
+	    opt_ind = GAFS(data, numPop = GAFS_numPop, numGen = GAFS_numGen, cross_prob = GAFS_cross_prob, mut_probb = GAFS_mut_prob, alpha = alpha)
 	    # optimal individual to feature subset
-	    features = ind_to_feat(data['trainX'].columns, opt_indivisual)
+	    features = ind_to_feat(data['trainX'].columns, opt_ind)
 	    # data tuple creation
 	    data = dict(trainX=data['trainX'][features], testX=data['testX'][features],\
 	                trainY=trainy_ar, testY=testy_ar)
 	    # perform GA-MLP on the optimal feature subsets
-	    y_pred_ar = GA_MLP(data)
+	    y_pred_ar = GA_MLP(data, generations = GA_MLP_numGen, pop_size = GA_MLP_numPop, prob_cross = GAMLP_prob_cross, prob_mut = GAMLP_prob_mut)
 	    # get the performance
 	    acc_ar, prec_ar, recall_ar, f1_ar = performance(y_pred_ar, data['testY'])
 	    
