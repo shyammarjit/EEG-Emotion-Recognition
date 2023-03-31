@@ -57,7 +57,7 @@ def GAFS(data, numPop = 100, numGen = 50, cross_prob = 0.65, mut_probb = 0.15, a
     hof = tools.HallOfFame(numPop * numGen)
     
     # Launch genetic algorithm, change the crossover and mutation probability
-    population, log_file = algorithms.eaSimple(population, toolbox, cxpb = 0.65, mutpb = 0.3,\
+    population, log_file = algorithms.eaSimple(population, toolbox, cxpb = cross_prob, mutpb = mut_probb,\
         ngen=numGen, stats=stats, halloffame=hof, verbose=False)
     
     return population[0] # return the most optimal feature subset
