@@ -154,7 +154,7 @@ if __name__ == "__main__":
 	    data = dict(trainX=data['trainX'][features], testX=data['testX'][features],\
 	                trainY=trainy_val, testY=testy_val)
 	    # perform GA-MLP on the optimal feature subsets
-	    y_pred_val = GA_MLP(data, generations = GA_MLP_numGen, pop_size = GA_MLP_numPop, prob_cross = GAMLP_prob_cross, prob_mut = GAMLP_prob_mut)
+	    y_pred_val = GA_MLP(data, generations = GAMLP_numGen, pop_size = GAMLP_numPop, prob_cross = GAMLP_prob_cross, prob_mut = GAMLP_prob_mut)
 	    # get the performance
 	    acc_val, prec_val, recall_val, f1_val = performance(y_pred_val, data['testY'])
 	    
@@ -171,7 +171,7 @@ if __name__ == "__main__":
 	    data = dict(trainX=data['trainX'][features], testX=data['testX'][features],\
 	                trainY=trainy_ar, testY=testy_ar)
 	    # perform GA-MLP on the optimal feature subsets
-	    y_pred_ar = GA_MLP(data, generations = GA_MLP_numGen, pop_size = GA_MLP_numPop, prob_cross = GAMLP_prob_cross, prob_mut = GAMLP_prob_mut)
+	    y_pred_ar = GA_MLP(data, generations = GAMLP_numGen, pop_size = GAMLP_numPop, prob_cross = GAMLP_prob_cross, prob_mut = GAMLP_prob_mut)
 	    # get the performance
 	    acc_ar, prec_ar, recall_ar, f1_ar = performance(y_pred_ar, data['testY'])
 	    
