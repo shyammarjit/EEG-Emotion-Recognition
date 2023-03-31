@@ -27,7 +27,7 @@ def getFitness(individual, data, alpha = 0.90):
     my_fitness = alpha*accuracy + (1-alpha)*((total_features - no_sel_feat)/total_features)
     return (my_fitness,)
 
-def GAFS(data, numPop = 100, numGen = 50, cross_prob = 0.65, mut_probb = 0.15, alpha = 0.90):
+def GAFS(data, numPop = 100, numGen = 50, cross_prob = 0.65, mut_prob = 0.15, alpha = 0.90):
     '''
     Genetic Algorithm based feature selction.
     data: a tuple
@@ -57,7 +57,7 @@ def GAFS(data, numPop = 100, numGen = 50, cross_prob = 0.65, mut_probb = 0.15, a
     hof = tools.HallOfFame(numPop * numGen)
     
     # Launch genetic algorithm, change the crossover and mutation probability
-    population, log_file = algorithms.eaSimple(population, toolbox, cxpb = cross_prob, mutpb = mut_probb,\
+    population, log_file = algorithms.eaSimple(population, toolbox, cxpb = cross_prob, mutpb = mut_prob,\
         ngen=numGen, stats=stats, halloffame=hof, verbose=False)
     
     return population[0] # return the most optimal feature subset
