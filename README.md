@@ -13,7 +13,7 @@
 > ***Index Terms*** — EEG, Emotions, Power Spectral Density, Multi-Layer Perceptron, Genetic Algorithm.
 <hr />
 
-**✨ Description of few imp variables:**
+**✨ Description of few imp variables**
 ```
 dataset_path  <- Path for the DEAP dataset
 subject_no    <- Subject number in string format for e.g. "s02", "s12"
