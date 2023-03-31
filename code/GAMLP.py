@@ -46,7 +46,7 @@ def initialize_population(pop_size):
         population.append(np.array([rand_act, rand_opt, neurons_1st, neurons_2nd]))
     return np.array(population)
 
-def GA_MLP(data, generations = 10, pop_size = 20, prob_cross = 0.95, prob_mut=0.15):
+def GA_MLP(data, generations = 10, pop_size = 20, prob_cross = 0.95, prob_mut = 0.15):
     population = initialize_population(pop_size) # Initialize new population
     pop_fitness = compute_fitness(population, data) # find the fitness of the population
     # sort the indivisuals based on their fitness function
