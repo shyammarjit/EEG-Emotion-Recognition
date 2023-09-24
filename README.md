@@ -12,7 +12,7 @@
 > ***Keywords*** — EEG, Emotions, Time Domain, Frequency Domain, Genetic Algorithm, Feature Selection, Multi-Layer Perceptron.
 <hr />
 
-## 🚀 How to run the code?<br/>
+## 🚀 How to run the code?
 start with [[main.py](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/main.py)]
 1. [Data Handling and Preprocessing](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/data_preprocessing.py)
 2. [Multi-Domain Feature Extraction](https://github.com/shyammarjit/EEG-Emotion-Recognition/blob/PReMI-2021/code/MultiDomain_Feature_Extraction.py)
